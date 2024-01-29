@@ -6,10 +6,10 @@ This repository contains the source code for an ecommerce serverless microservic
 ## Architecture
 The microservice architecture leverages AWS Lambda, DynamoDB, API Gateway, EventBridge, and SQS to create a highly decoupled, event-driven system. This setup ensures efficient handling of ecommerce operations like product management, basket handling, and order processing.
 
-## Architecture Diagram(["AWS Serverless Microservices with Patterns & Best Practices"](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/))
+## Architecture Diagram([AWS Serverless Microservices with Patterns & Best Practices](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/))
 Below is the architecture diagram for the E-commerce Serverless Microservice:
 
-![Architecture Diagram](./ecommerce-serverless-architecture-diagram.png)
+![Architecture Diagram](img/ecommerce-serverless-architecture-diagram.PNG)
 
 
 ### Key Components:
